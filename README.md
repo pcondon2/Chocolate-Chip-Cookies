@@ -1,7 +1,7 @@
-# Chocolate-Chip-Cookies
+# Chocolate-Chip-Cookies -cool
 Awesome Chocolate Chip Cookie recipe from [Martha Stewart]("http://www.marthastewart.com/344840/soft-and-chewy-chocolate-chip-cookies"):
 
-##How to own this recipe
+##How to own this recipe - Clemson Rocks
 - Click "Fork" in the top right corner of the page and it's yours :)
 
 ##How to improve this recipe
